@@ -21,7 +21,7 @@ Usage of http-proxy:
   -cert-dir
     	CA certificate and private key directory (default: ./)
   -ssl-striping
-    	HTTPS connection between client and proxy server (default:`s false)
+    	HTTPS connection between client and proxy server (default: false)
 ```
 
 ## Example configuration - HTTP:
